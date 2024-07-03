@@ -1,0 +1,4 @@
+Id,LotArea,OverallQual,YearBuilt,GrLivArea,Neighborhood,HouseStyle,ExterQual,SalePrice
+1,8450,7,2003,1710,CollgCr,2Story,Gd,208500
+2,9600,6,1976,1262,Veenker,1Story,TA,181500
+3,11250,7,2001,1786,CollgCr,2Story,Gd,223500
